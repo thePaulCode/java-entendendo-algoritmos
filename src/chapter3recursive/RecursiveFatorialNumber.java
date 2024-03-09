@@ -1,3 +1,5 @@
+package src.chapter3recursive;
+
 public class RecursiveFatorialNumber {
 
     // Método para calcular o fatorial de um número de forma recursiva
@@ -16,7 +18,7 @@ public class RecursiveFatorialNumber {
 
     // Método principal do programa
     public static void main(String[] args){
-        RecursiveFatorialNumber fatorial = new RecursiveFatorialNumber(); // Cria uma instância da classe RecursiveFatorialNumber
+        RecursiveFatorialNumber fatorial = new RecursiveFatorialNumber(); // Cria uma instância da classe src.arrays.recursive.RecursiveFatorialNumber
         int result = fatorial.calculateFatorial(5); // Calcula o fatorial de 5
 
         // Imprime o resultado na saída padrão

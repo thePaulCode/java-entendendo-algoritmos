@@ -1,3 +1,5 @@
+package src.chapter3recursive;
+
 public class RecursiveAlgorithm {
 
     // Método que demonstra recursão
@@ -13,7 +15,7 @@ public class RecursiveAlgorithm {
 
     // Método principal do programa
     public static void main(String[] args){
-        RecursiveAlgorithm re = new RecursiveAlgorithm(); // Cria uma instância da classe RecursiveAlgorithm
+        RecursiveAlgorithm re = new RecursiveAlgorithm(); // Cria uma instância da classe src.arrays.recursive.RecursiveAlgorithm
         re.recursiveCase(100); // Chama o método recursiveCase com o valor inicial de 100
     }
 }
