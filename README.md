@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de como você poderia estruturar o arquivo README.md para o seu repositório, com base no livro "Entendendo Algoritmos" de Aditya Bhargava:
-
----
-
 # Entendendo Algoritmos
 
 Este repositório contém implementações em Java dos algoritmos apresentados no livro "Entendendo Algoritmos" de Aditya Bhargava. O livro é uma excelente fonte de aprendizado para entender os conceitos fundamentais de algoritmos de uma maneira acessível e prática.
